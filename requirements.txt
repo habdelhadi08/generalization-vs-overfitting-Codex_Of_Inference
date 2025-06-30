@@ -1,0 +1,13 @@
+# Core Deep Learning
+torch==2.1.0
+torchvision==0.16.0
+
+# Data and Transformations
+numpy==1.26.0
+matplotlib==3.8.0
+pillow==10.0.1
+
+# Experiment Tracking and Visualization
+tensorboard==2.15.1
+wandb==0.16.0
+
